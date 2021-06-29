@@ -1,0 +1,3 @@
+admin, adm1n
+sam, s1m
+manny, m1nny
